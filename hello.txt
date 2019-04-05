@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 print("Hello") !
 c'est bzzare meme le fichier change!
+=======
+print("Hello");
+var message = "hello !";
+l faudra ajouter des points virgules.
+print("coucou")
+>>>>>>> testo
